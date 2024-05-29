@@ -1,7 +1,1 @@
-name: code
-channels:
-  - conda-forge
-  - defaults
-dependencies:
-  - geopandas=0.12.0
-  -
+
